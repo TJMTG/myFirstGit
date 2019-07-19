@@ -2,13 +2,13 @@
 
 Project Description: This is a project for my lab.
 
-#Install Instructions
+##Install Instructions
 1. Do this
 2. Do that
 3. Bla Bla
 4. Finish
 
-#Run Instructions
+##Run Instructions
 1. Open file xyz
 2. Wait for full moon
 3. Run file
